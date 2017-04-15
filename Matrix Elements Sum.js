@@ -39,6 +39,8 @@ Help the bots calculate the total price of all the rooms that are suitable for t
   *[output] integer
 */
 
+//***********SOLUTION**************//
+
 function matrixElementsSum(matrix) {
   var total = 0;
 
